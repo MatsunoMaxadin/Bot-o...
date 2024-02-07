@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+
+
+
+
+
+
+body{
+    background-image: url('cd4c3d28090997c9df080cc7f1802b2e.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+   
+
+a{
+    margin:auto;
+    width: 240px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 250px;
+}
+
+
+button{
+    color:black;
+    background-color: aquamarine;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+
+
+
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid;
+    border-radius: 100px;
+
+}
+
+span{
+    font-family: 'Poppins', sans-serif;
+
+
+}
